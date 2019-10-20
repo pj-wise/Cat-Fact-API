@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Catamaran&display=swap");
+body {
+  font-family: 'Catamaran', sans-serif;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+body .main {
+  margin: 0 20%;
+}
+
+body .main h1 {
+  font-weight: 600;
+}
+
+body .main .panel .panel-heading .panel-title {
+  font-size: 1.6em;
+}
+
+body .main .panel .panel-body p {
+  font-size: 1.4em;
+}
+
+body .main .newFact {
+  font-size: 1.2em;
+  font-weight: 700;
+  padding: 1em 4em;
+}
+/*# sourceMappingURL=index.css.map */
